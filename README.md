@@ -1,4 +1,4 @@
-#Mein erstes Git-Repositorium
+# Mein erstes Git-Repositorium
 
 Hier befindet sich mein count.sh-Skript.
 
